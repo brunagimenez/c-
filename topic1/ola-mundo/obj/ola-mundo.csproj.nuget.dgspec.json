@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/bruna/Documentos/c-/topic1/CalculatesLamp/CalculatesLamp.csproj": {}
+    "/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/ola-mundo.csproj": {}
   },
   "projects": {
-    "/home/bruna/Documentos/c-/topic1/CalculatesLamp/CalculatesLamp.csproj": {
+    "/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/ola-mundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bruna/Documentos/c-/topic1/CalculatesLamp/CalculatesLamp.csproj",
-        "projectName": "CalculatesLamp",
-        "projectPath": "/home/bruna/Documentos/c-/topic1/CalculatesLamp/CalculatesLamp.csproj",
+        "projectUniqueName": "/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/ola-mundo.csproj",
+        "projectName": "ola-mundo",
+        "projectPath": "/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/ola-mundo.csproj",
         "packagesPath": "/home/bruna/.nuget/packages/",
-        "outputPath": "/home/bruna/Documentos/c-/topic1/CalculatesLamp/obj/",
+        "outputPath": "/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/bruna/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -32,24 +32,18 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.127/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/bin/Debug/net6.0/ola-mundo.deps.json
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/bin/Debug/net6.0/ola-mundo.dll
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/bin/Debug/net6.0/ola-mundo.pdb
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/obj/Debug/net6.0/ola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/obj/Debug/net6.0/ola-mundo.AssemblyInfoInputs.cache
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/obj/Debug/net6.0/ola-mundo.AssemblyInfo.cs
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/obj/Debug/net6.0/ola-mundo.csproj.CoreCompileInputs.cache
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/obj/Debug/net6.0/ola-mundo.dll
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/obj/Debug/net6.0/ola-mundo.pdb
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/obj/Debug/net6.0/ref/ola-mundo.dll
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/bin/Debug/net6.0/ref/ola-mundo.dll
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/obj/Debug/net6.0/ola-mundo.csproj.AssemblyReference.cache
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/bin/Debug/net6.0/ola-mundo
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/bin/Debug/net6.0/ola-mundo.runtimeconfig.json
+/home/bruna/Documentos/projetosC#/csharp-001-exercicio-ola-mundo/src/ola-mundo/obj/Debug/net6.0/ola-mundo.genruntimeconfig.cache
